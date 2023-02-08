@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Solitreo&weight=500&size=27&pause=1000&color=9BF7F1&multiline=true&width=442&height=59&lines=New+here+and+new+to+coding+%3A);Name+is+mountain+nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Solitreo&weight=500&size=27&pause=1000&color=9BF7F1&multiline=true&width=442&height=59&lines=Hi+%3A);Name+is+mountain+nice+to+meet+you)](https://git.io/typing-svg)
